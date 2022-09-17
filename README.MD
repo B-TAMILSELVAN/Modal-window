@@ -1,1 +1,1 @@
-A simple website showing the use various evenlisteners in java(click show modal to see the magic): https://b-tamilselvan.github.io/Modal-window/
+A simple website showing the use various event listeners in java(click show modal to see the magic): https://b-tamilselvan.github.io/Modal-window/
